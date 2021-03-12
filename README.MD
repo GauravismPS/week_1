@@ -2,4 +2,4 @@
 
 ### Git branch merge graph
 
-![image info](./imgs/graph.png?raw=true)
+![Repo Graph](./imgs/graph.PNG?raw=true)
